@@ -7,7 +7,9 @@ CompilEZ sert a créer un script shell pour commpiler vos codes sources C/C++ po
 <h3>Comment s'en servir ?</h3>
 Pour vous servir de cet outil, suivez le tutoriel ci-dessous:
 <ul>
-  <li>Tout d'abord: Entrez le chemin ou se trouve votre code source C/C++</li>
+  <li>Entrez dans le répértoire CompilEZ téléchargé</li>
+  <li>Dans votre terminal entrez `./CompilEZ`
+  <li>Entrez le chemin ou se trouve votre code source C/C++</li>
   <li>Saisissez ensuite le nom du fichier qui contient le code source</li>
   <li>CompilEZ va vous demander le nom du fichier de sortie car il à une fonction qui permet d'éxécuter le fichier une fois compilé</li>
   <li>Il va ensuite voud demander si vous voulez attacher des librairies (les linker)</li>
