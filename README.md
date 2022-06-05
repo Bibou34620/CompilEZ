@@ -17,3 +17,5 @@ Au cas ou, o=oui et n=non
 
 <h3>J'ai un problème...Je n'ai pas la permission d'éxécuter le script</h3>
 Vous avez juste a faire `chmod +x compile.sh` dand le répértoire ou est situé le script bien entendu
+
+Un bug, un problème ? Contactez moi <a href="mailto:mathiasrubert1@gmail.com">en cliquant ici !</a>
